@@ -1,0 +1,91 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\Debug\A2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>A2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>A2.map</FILE>
+  <FILE>A2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <TESTBUFFER><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>692</LINE></TESTBUFFER>
+  <MESSAGE03><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>676</LINE></MESSAGE03>
+  <BUFFER01><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>690</LINE></BUFFER01>
+  <encode_message><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>459</LINE></encode_message>
+  <main_loop><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>117</LINE></main_loop>
+  <flash_message><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>140</LINE></flash_message>
+  <stop><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>128</LINE></stop>
+  <loop><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>166</LINE></loop>
+  <reset><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>175</LINE></reset>
+  <morse_flash><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>186</LINE></morse_flash>
+  <reset_buffer><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>205</LINE></reset_buffer>
+  <for_low_bytes><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>217</LINE></for_low_bytes>
+  <for_high_bytes><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>210</LINE></for_high_bytes>
+  <not_space><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>235</LINE></not_space>
+  <leds_off><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>449</LINE></leds_off>
+  <delay_long><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>594</LINE></delay_long>
+  <check_index><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>243</LINE></check_index>
+  <pop_all><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>369</LINE></pop_all>
+  <start_index_1><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>250</LINE></start_index_1>
+  <start_index_2><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>278</LINE></start_index_2>
+  <check_3><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>304</LINE></check_3>
+  <keep_going_1><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>256</LINE></keep_going_1>
+  <long_light_1><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>271</LINE></long_light_1>
+  <leds_on><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>382</LINE></leds_on>
+  <delay_short><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>600</LINE></delay_short>
+  <keep_going_2><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>284</LINE></keep_going_2>
+  <long_light_2><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>298</LINE></long_light_2>
+  <start_index_3><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>313</LINE></start_index_3>
+  <check_4><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>308</LINE></check_4>
+  <start_index_4><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>342</LINE></start_index_4>
+  <keep_going_3><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>321</LINE></keep_going_3>
+  <long_light_3><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>335</LINE></long_light_3>
+  <keep_going_4><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>348</LINE></keep_going_4>
+  <long_light_4><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>362</LINE></long_light_4>
+  <turn_one_on><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>406</LINE></turn_one_on>
+  <turn_two_on><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>412</LINE></turn_two_on>
+  <turn_three_on><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>418</LINE></turn_three_on>
+  <turn_four_on><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>424</LINE></turn_four_on>
+  <turn_five_on><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>430</LINE></turn_five_on>
+  <turn_six_on><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>438</LINE></turn_six_on>
+  <loop_><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>477</LINE></loop_>
+  <alphabet_encode><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>498</LINE></alphabet_encode>
+  <ITU_MORSE><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>646</LINE></ITU_MORSE>
+  <compare><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>525</LINE></compare>
+  <reset_pop><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>571</LINE></reset_pop>
+  <load_morse><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>532</LINE></load_morse>
+  <re_format><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>553</LINE></re_format>
+  <load_bits><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>541</LINE></load_bits>
+  <load_slash><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>547</LINE></load_slash>
+  <delay><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>607</LINE></delay>
+  <delay_busywait><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>615</LINE></delay_busywait>
+  <delay_busywait_loop1><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>621</LINE></delay_busywait_loop1>
+  <delay_busywait_exit><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>636</LINE></delay_busywait_exit>
+  <delay_busywait_loop2><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>626</LINE></delay_busywait_loop2>
+  <delay_busywait_loop3><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>631</LINE></delay_busywait_loop3>
+  <MESSAGE01><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>674</LINE></MESSAGE01>
+  <MESSAGE02><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>675</LINE></MESSAGE02>
+  <MESSAGE04><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>677</LINE></MESSAGE04>
+  <MESSAGE05><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>678</LINE></MESSAGE05>
+  <MESSAGE06><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>679</LINE></MESSAGE06>
+  <MESSAGE07><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>680</LINE></MESSAGE07>
+  <MESSAGE08><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>681</LINE></MESSAGE08>
+  <MESSAGE09><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>682</LINE></MESSAGE09>
+  <MESSAGE10><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>685</LINE></MESSAGE10>
+  <BUFFER02><FILE>H:\CSC230 2022 summer\Assignment 2\A2 setup\A2\A2\a2_encode.asm</FILE><LINE>691</LINE></BUFFER02>
+ </LABELS>
+</ASSEMBLER_INFO>
