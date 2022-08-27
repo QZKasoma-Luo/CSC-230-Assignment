@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\Debug\csc230-a1-part-c.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>csc230-a1-part-c.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>csc230-a1-part-c.map</FILE>
+  <FILE>csc230-a1-part-c.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <loop><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</FILE><LINE>52</LINE></loop>
+  <swap_position_1><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</FILE><LINE>66</LINE></swap_position_1>
+  <loop2><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</FILE><LINE>71</LINE></loop2>
+  <copy_ten><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</FILE><LINE>84</LINE></copy_ten>
+  <mulptiply><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</FILE><LINE>86</LINE></mulptiply>
+  <add_together><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</FILE><LINE>98</LINE></add_together>
+  <BCD2BINARY><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</FILE><LINE>113</LINE></BCD2BINARY>
+  <end><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-c\csc230-a1-part-c\bcd2binary.asm</FILE><LINE>107</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>

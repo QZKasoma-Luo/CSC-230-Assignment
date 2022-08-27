@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega2560"</DEVICE>
+ <WORKING_DIR>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\Debug\csc230-a1-part-b.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>csc230-a1-part-b.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>csc230-a1-part-b.map</FILE>
+  <FILE>csc230-a1-part-b.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <IN1><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>108</LINE></IN1>
+  <IN2><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>109</LINE></IN2>
+  <loop_number_1><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>57</LINE></loop_number_1>
+  <reset><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>70</LINE></reset>
+  <loop_number_2><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>75</LINE></loop_number_2>
+  <save><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>91</LINE></save>
+  <OUT1><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>110</LINE></OUT1>
+  <OUT2><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>111</LINE></OUT2>
+  <stop><FILE>H:\CSC230 2022 summer\Assignment1\csc230-a1\csc230-a1-part-b\csc230-a1-part-b\reverse.asm</FILE><LINE>103</LINE></stop>
+ </LABELS>
+</ASSEMBLER_INFO>
